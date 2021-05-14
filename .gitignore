@@ -101,3 +101,7 @@ tests/triangle-vulkan
 tests/window
 tests/windows
 
+
+# REZ and VSCode
+_rez_build
+.vscode
